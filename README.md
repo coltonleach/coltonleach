@@ -1,13 +1,13 @@
 # Hi, I'm Colton! Welcome to my humble abode.
-I'm a web developer with a focus on frontend developement using React. I've been in the software development realm since I was in middle school, but didn't take it anywhere. I mainly made small scripts to automate stuff using Python, modded stuff for Call of Duty and Minecraft, messed around with Unity, and made some apps to help me study algebra. In May of 2020, a friend of mine showed me an app he was making with React Native and it blew me away. I didn't realize how accessible it was to make mobile or robust web apps. I then started researching, dove head first into React, quickly realized I definitely don't know enough about HTML/CSS/JS, so I took a few steps back to learn the fundamentals. After just a month I realized I thoroughly enjoy the entire development process, especially when I design something in Figma and bring it to life.
+I'm a web developer with a focus on frontend developement using React. I've been in the software development realm since I was in middle school, but didn't take it anywhere. I mainly made small scripts to automate stuff using Python, modded stuff for Call of Duty and Minecraft, messed around with Unity, and made some apps to help me study algebra. In March of 2021, a friend of mine showed me an app he was making with React Native and it blew me away. I didn't realize how accessible it was to make mobile or robust web apps. I then started researching, dove head first into React, quickly realized I definitely don't know enough about HTML/CSS/JS, so I took a few steps back to learn the fundamentals. After just a month I realized I thoroughly enjoy the entire development process, especially when I design something in Figma and bring it to life.
 
 ---
 
 ### 🛠 Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SASS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
